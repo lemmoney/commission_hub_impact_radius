@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/lemmoney/commission_hub.git
-  revision: 056fd88f3ae146221ac274abe8e27ace809d0d10
+  revision: 316830eac01667dac90406537a3d5039e0339b94
   specs:
     commission_hub (0.1.0)
       activesupport
@@ -37,19 +37,19 @@ GEM
     nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     rake (10.5.0)
-    rspec (3.5.0)
-      rspec-core (~> 3.5.0)
-      rspec-expectations (~> 3.5.0)
-      rspec-mocks (~> 3.5.0)
-    rspec-core (3.5.4)
-      rspec-support (~> 3.5.0)
-    rspec-expectations (3.5.0)
+    rspec (3.8.0)
+      rspec-core (~> 3.8.0)
+      rspec-expectations (~> 3.8.0)
+      rspec-mocks (~> 3.8.0)
+    rspec-core (3.8.0)
+      rspec-support (~> 3.8.0)
+    rspec-expectations (3.8.3)
       diff-lcs (>= 1.2.0, < 2.0)
-      rspec-support (~> 3.5.0)
-    rspec-mocks (3.5.0)
+      rspec-support (~> 3.8.0)
+    rspec-mocks (3.8.0)
       diff-lcs (>= 1.2.0, < 2.0)
-      rspec-support (~> 3.5.0)
-    rspec-support (3.5.0)
+      rspec-support (~> 3.8.0)
+    rspec-support (3.8.0)
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
